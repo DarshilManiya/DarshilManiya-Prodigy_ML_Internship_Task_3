@@ -1,6 +1,7 @@
 # DarshilManiya-Prodigy_ML_Internship_Task_3
 
 Prediction file - predictions.csv
+
 Dog and Cat Classification using SVM
 This project demonstrates the use of a Support Vector Machine (SVM) to classify images of dogs and cats. The dataset used is the popular Kaggle Dogs vs. Cats dataset.
 
